@@ -1,0 +1,6 @@
+Client :hello server
+Server :hi client
+Client :how are you?
+Server :fine, thanks.
+Client :bye
+Server :bye
